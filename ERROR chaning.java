@@ -6,7 +6,7 @@ public class chain {
     public void ask() {
         System.out.println("here");
     }
-
+ 
     public void asked() {
         System.out.println("hered");
     }
