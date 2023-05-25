@@ -9,7 +9,7 @@ class A extends Thread { // using thread with class A by using extends keyword
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        }  
+        }   
     }
 }
 
