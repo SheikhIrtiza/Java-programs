@@ -7,7 +7,7 @@ class A extends Thread { // using thread with class A by using extends keyword
                 Thread.sleep(10);//by using thread.sleep() we can put thread to sleep for 10 mili seconds and by this threads will be optimized to be printed one after each other.
                 //we are also using try and catch method as using thread.sleep throws exception so it will be handled precisely by try and catch blocks
             } catch (InterruptedException e) {
-                e.printStackTrace();
+                e.printStackTrace(); 
             }
         }   
     }
