@@ -5,7 +5,7 @@
     }
      nonstatic()
      {
-        System.out.println("constructor block");
+        System.out.println("constructor block"); 
      }
      public static void main(String args[])
      {
