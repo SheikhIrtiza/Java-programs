@@ -6,7 +6,7 @@ class static2 {
     static { //in static block when the object is created it will be called only once, no matter how many times we call an object but it will be called only once.
         System.out.println("heaven");
     }
-}
+} 
 
 public class static1 { //main class
     public static void main(String args[]) //main method
