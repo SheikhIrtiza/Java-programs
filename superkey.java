@@ -4,7 +4,7 @@ class A {
 }
 
 class B extends A //extending the subclass B with parent class A.
-{
+{ 
     int a = 20; //instance variable of sub class.
 
     void show(int a) //method to print the output also has local variable in its parameter.
