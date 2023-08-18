@@ -5,5 +5,5 @@ public class fullcalc extends calc{
     
     public int div(int a, int b) {
         return a / b;
-    }
+    } 
 }
